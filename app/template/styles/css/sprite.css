@@ -1,0 +1,35 @@
+.icon-arrow-left-black {
+  background-image: url(../../img/sprite.png);
+  background-position: 0px -51px;
+  width: 25px;
+  height: 47px; }
+
+.icon-arrow-left-white {
+  background-image: url(../../img/sprite.png);
+  background-position: -25px -51px;
+  width: 25px;
+  height: 47px; }
+
+.icon-arrow-right-black {
+  background-image: url(../../img/sprite.png);
+  background-position: -50px -51px;
+  width: 25px;
+  height: 47px; }
+
+.icon-arrow-right-white {
+  background-image: url(../../img/sprite.png);
+  background-position: -75px -51px;
+  width: 25px;
+  height: 47px; }
+
+.icon-arrow-top-brown {
+  background-image: url(../../img/sprite.png);
+  background-position: 0px 0px;
+  width: 51px;
+  height: 51px; }
+
+.icon-arrow-top {
+  background-image: url(../../img/sprite.png);
+  background-position: -51px 0px;
+  width: 51px;
+  height: 51px; }
